@@ -1,0 +1,29 @@
+{
+   "musicband": [
+        {
+            "band": "the beatles",
+            "amount": 28,
+            "color": "rgb(30,144,255)"
+        },
+        {
+            "band": "pink floyd",
+            "amount": 21,
+            "color": "rgb(255,105,180)"
+        },    
+        {
+            "band": "The rolling stones",
+            "amount": 26,
+            "color": "rgb(200,255,0)"
+        },
+        {
+            "band": "nirvana",
+            "amount": 14,
+            "color": "rgb(80,255,100)"
+        },
+        {
+            "band": "led zepplin",
+            "amount": 11,
+            "color": "rgb(255,0,0)"
+        }
+    ]
+}
